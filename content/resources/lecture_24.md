@@ -5,6 +5,7 @@ description: This resource contains informations about thrust chamber pressuriza
   system.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-512-rocket-propulsion-fall-2005/542eb6ee468b20de68d0015d405bdbf2_lecture_24.pdf
 file_type: application/pdf
+parent_uid: 1a7892c5-8e6a-7f7b-d3ef-33897f01fd93
 resourcetype: Document
 title: lecture_24.pdf
 uid: 542eb6ee-468b-20de-68d0-015d405bdbf2

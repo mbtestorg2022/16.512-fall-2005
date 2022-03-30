@@ -4,6 +4,7 @@ description: This resource contains informations about liquid rockets, solid roc
   hybrid rockets and nuclear rockets.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-512-rocket-propulsion-fall-2005/7c8ca9a97829a5dbb8cdffa038c32f62_lecture_37.pdf
 file_type: application/pdf
+parent_uid: 1a7892c5-8e6a-7f7b-d3ef-33897f01fd93
 resourcetype: Document
 title: lecture_37.pdf
 uid: 7c8ca9a9-7829-a5db-b8cd-ffa038c32f62

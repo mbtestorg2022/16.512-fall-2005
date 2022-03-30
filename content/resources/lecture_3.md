@@ -5,6 +5,7 @@ description: This resource contains informations about Ideal Nozzle Flow with no
   and Nozzle Flow separation effects.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-512-rocket-propulsion-fall-2005/166e569adbdb734b0f03cbabcce50447_lecture_3.pdf
 file_type: application/pdf
+parent_uid: 1a7892c5-8e6a-7f7b-d3ef-33897f01fd93
 resourcetype: Document
 title: lecture_3.pdf
 uid: 166e569a-dbdb-734b-0f03-cbabcce50447

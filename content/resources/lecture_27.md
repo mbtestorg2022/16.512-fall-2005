@@ -4,6 +4,7 @@ description: This resource contains informations about impulse turbine, velocity
   general performance relationships for turbines and blade root stress.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-512-rocket-propulsion-fall-2005/3b3ee10ca72d822e2bc4831465ccd47f_lecture_27.pdf
 file_type: application/pdf
+parent_uid: 1a7892c5-8e6a-7f7b-d3ef-33897f01fd93
 resourcetype: Document
 title: lecture_27.pdf
 uid: 3b3ee10c-a72d-822e-2bc4-831465ccd47f

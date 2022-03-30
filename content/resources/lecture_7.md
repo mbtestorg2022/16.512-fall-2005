@@ -5,6 +5,7 @@ description: This resource contains informations about heat transfer in Rocket N
   Bartz heat flux formula.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-512-rocket-propulsion-fall-2005/f5b510787efd5e95a3083ff0e1b5158f_lecture_7.pdf
 file_type: application/pdf
+parent_uid: 1a7892c5-8e6a-7f7b-d3ef-33897f01fd93
 resourcetype: Document
 title: lecture_7.pdf
 uid: f5b51078-7efd-5e95-a308-3ff0e1b5158f
